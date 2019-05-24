@@ -1,5 +1,5 @@
 ---
-title: About
+title: 关于
 date: 2018-04-05 14:16:00
 categories: math
 mathjax: true

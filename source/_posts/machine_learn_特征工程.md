@@ -2,7 +2,7 @@
 title: ML机器学习关于特征工程
 date: 2018-05-24 14:50:25
 updated: 2018-05-24 14:50:25
-categories: 机器学习
+categories: 机器学习与自然语言理解
 tags: ['特征工程','ML/DL','Machine learning']
 ---
 

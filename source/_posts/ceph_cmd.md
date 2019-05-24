@@ -3,7 +3,7 @@
 title: ceph 概念命令
 date: 2018-05-24 14:50:25
 updated: 2018-05-24 14:50:25
-categories: 分布式存储系统
+categories: 大数据&区块链&分布式存储系统
 tags: ['分布式存储','ceph']
 ---
 

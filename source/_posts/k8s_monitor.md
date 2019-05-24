@@ -3,8 +3,8 @@
 title: Kubernetes监控
 date: 2018-05-24 14:50:25
 updated: 2018-05-24 14:50:25
-categories: Kubernetes
-tags: ['分布式系统','Kubernetes','k8s']
+categories: Devops&Kubernetes
+tags: ['Devops','Kubernetes','k8s','运维开发']
 ---
 
 ## Node节点

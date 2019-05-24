@@ -3,7 +3,7 @@
 title: hadoop 使用
 date: 2018-05-24 14:50:25
 updated: 2018-05-24 14:50:25
-categories: 大数据
+categories: 大数据&区块链&分布式存储系统
 tags: ['大数据','hadoop']
 ---
 ## 模块与概念解释

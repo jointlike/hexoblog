@@ -1,6 +1,12 @@
+
 ---
 title: k8s权限管理
+date: 2018-05-24 14:50:25
+updated: 2018-05-24 14:50:25
+categories: Kubernetes
+tags: ['分布式系统','Kubernetes','k8s']
 ---
+
 补充：
 https://www.cnblogs.com/cf532088799/p/7977083.html
 

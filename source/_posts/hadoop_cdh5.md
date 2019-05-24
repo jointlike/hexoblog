@@ -1,5 +1,10 @@
+
 ---
-title: hadoop 部署  
+title: hadoop 部署
+date: 2018-05-24 14:50:25
+updated: 2018-05-24 14:50:25
+categories: 大数据
+tags: ['大数据','hadoop']
 ---
 
 基于cloudera,oracle jdk 1.8.0.111, centos 6.8
@@ -12,7 +17,7 @@ title: hadoop 部署
 
 1. 关闭selinux
 
-```  
+``` 
 vi /etc/selinux/config
 
 SELINUX=disabled

@@ -1,24 +1,35 @@
 # Hexo 博客 next 主题应用
 
-## 常用
+## 文档
 docs: https://hexo.io/zh-cn/docs/writing
 
-### 文章模板
+## 文章模板
 ~~~
 ---
-layout: posts
-title: 写给小白的express学习笔记1： express-static文件静态管理
-date: 2018-06-07 00:38:36
-categories: 学习笔记
-tags: [node.js, express]
+layout	布局	
+title	标题	
+date	建立日期	文件建立日期
+updated	更新日期	文件更新日期
+comments	开启文章的评论功能	true
+tags	标签（不适用于分页）	
+categories	分类（不适用于分页）	
+permalink	覆盖文章网址	
 ---
 
 body
 
+ps:
+多分类
+categories:
+- Diary
+tags:
+- PS3
+- Games
+
 ~~~
 更多参考： https://hexo.io/zh-cn/docs/variables
 
-### Hexo 命令
+## Hexo 命令
 `hexo init <folder>` 新建一个网站。
 `hexo new <layout> "title" | hexo n` 新建文章或页面。
 `hexo generate | hexo g` 生成静态页面

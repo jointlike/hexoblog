@@ -1,5 +1,9 @@
 ---
-title: 算法学习
+title: ML机器学习入门
+date: 2018-05-24 14:50:25
+updated: 2018-05-24 14:50:25
+categories: 机器学习
+tags: ['机器学习','ML/DL','Machine learning']
 ---
 
 ## 概念备忘：

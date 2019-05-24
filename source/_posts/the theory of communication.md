@@ -1,5 +1,9 @@
 ---
-title: 信息系统
+title: NLP 信息系统
+date: 2018-05-24 14:50:25
+updated: 2018-05-24 14:50:25
+categories: 自然语言理解
+tags: ['NLP','自然语言理解','Machine learning']
 ---
 
 组成：

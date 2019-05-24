@@ -1,5 +1,10 @@
+
 ---
 title: Kubernetes之QoS
+date: 2018-05-24 14:50:25
+updated: 2018-05-24 14:50:25
+categories: Kubernetes
+tags: ['分布式系统','Kubernetes','k8s']
 ---
 
 

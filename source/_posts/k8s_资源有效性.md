@@ -1,6 +1,11 @@
 ---
 title: Kubernetes之健康检查与服务依赖处理
+date: 2018-05-24 14:50:25
+updated: 2018-05-24 14:50:25
+categories: Kubernetes
+tags: ['分布式系统','Kubernetes','k8s']
 ---
+
 
 # 健康检查
 ## 使用Liveness及Readness探针
